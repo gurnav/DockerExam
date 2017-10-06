@@ -10,13 +10,15 @@ And go inside it:
 Then install the environment:
 	docker-compose up -d
 
-Now the webserver is running see the home page at*:
+Now the webserver is running see the home page at:
 	YourIPAddress:8080
+	For MAC the IPAddress is localhost.
 
-The phpmyadmin should be at*:
+The phpmyadmin should be at:
 	YourIPAddress:8081
+	For MAC the IPAddress is localhost.
 
 The file directory of the server is:
 	DockerExam/src/
 
-* For MAC the IPAddress is localhost.
+
